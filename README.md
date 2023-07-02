@@ -40,17 +40,6 @@ Link Text: Emotion Detection from Text
 
 Link URL: https://www.kaggle.com/pashupatigupta/emotion-detection-from-text
 
-Link Text: Cornell Movie-Dialogs Corpus
-
-Link URL: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
-
-Link Text: link
-
-Link URL: https://ieeexplore.ieee.org/abstract/document/5610650
-
-Link Text: webpage
-
-Link URL: http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
 
 
 I used Google Colab. So if you want to run the code, you need to import the datasets into Google Drive and then change the directory in the code based on your directory.
