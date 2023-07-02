@@ -23,31 +23,34 @@ The WASSA-2017 Shared Task on Emotion Intensity webpage provides a dataset of Tw
 
 
 Usefull links:
+
 Link Text: Cornell Movie--Dialogs Corpus
+
 Link URL: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
 Link Text: EmoBank
+
 Link URL: https://github.com/JULIELab/EmoBank
 
 Link Text: WASSA-2017
+
 Link URL: http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
 
 Link Text: Emotion Detection from Text
+
 Link URL: https://www.kaggle.com/pashupatigupta/emotion-detection-from-text
 
 Link Text: Cornell Movie-Dialogs Corpus
+
 Link URL: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
 Link Text: link
+
 Link URL: https://ieeexplore.ieee.org/abstract/document/5610650
 
-Link Text: http://aclweb.org/anthology/E17-2092
-Link URL: http://aclweb.org/anthology/E17-2092
-
 Link Text: webpage
+
 Link URL: http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
-
-
 
 
 I used Google Colab. So if you want to run the code, you need to import the datasets into Google Drive and then change the directory in the code based on your directory.
